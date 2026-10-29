@@ -1,4 +1,4 @@
-#### CyanVault — Modern Bank Management System
+## CyanVault — Modern Bank Management System
 
 Built with **React 19**, **Vite**, **React Router DOM**, styled in an **off-white & pastel cyan** palette.
 
